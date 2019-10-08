@@ -18,7 +18,7 @@ public class Java{
 		shum = num1 * num2;
 		all = num1 * num1 / num1 + num2;
 		no = all;
-		System.out.println("Sum of these numbers: " + sum);	
+		System.out.println("Sum of these numbers: : " + sum);	
 		System.out.println("Zb of these numbers: " + zb);
         System.out.println("Pj of these numbers: " + pj);
         System.out.println("Shum of these numbers: " + shum);
