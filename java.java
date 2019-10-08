@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Java{
 	public static void main(String[] args) {
 	
-	int num1, num2, sum, zb, pj,shum, all, n;
+	int num1, num2, sum, zb, pj,shum, all;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter First Number: ");
 		num1 = sc.nextInt();
