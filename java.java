@@ -7,6 +7,12 @@ public class Java{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter First Number: ");
 		num1 = sc.nextInt();
+		 if(num1 == '+' || num1 == '-' || num1 == '/' || num1 == '*')
+		 {
+			 System.out.println("add");
+			 
+		 }
+		 else{
 		
 		System.out.println("Enter Second Number: ");
 		num2 = sc.nextInt();
@@ -27,5 +33,5 @@ public class Java{
         System.out.println("No of these numbers: " + no);
         System.out.println("And of these numbers: " + and);		
 	}
-	
+	}
 }
